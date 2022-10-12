@@ -1,4 +1,12 @@
- 
+/*
+* @author deadfishh
+*
+* i did not know what a class was during this particular time in my life
+* or an object for that matter
+* it was spring break of senior year
+* please forgive me
+*/
+
 import java.util.Scanner;
 
 public class BattleShip
