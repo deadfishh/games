@@ -1,5 +1,6 @@
 # games
 all the fun games and stuff that i wrote in java.  most of these were before i knew what a class was.
+THIS IS ALL IN JAVA!!!!!!!!
 
 good morning!  if you are reading this then that means you are stalking my github, because i most certainly did not tell anyone to go here. 
 
