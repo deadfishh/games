@@ -4,7 +4,7 @@
  * idek what this does it's from a while ago
  * it's the leontief matricie so i guess google that
  * something about econ and the supply and demand
- * email ashwinkrishnaswamy@u.northwestern.edu with any questions
+ * email ashwinkrishnaswamy2026@u.northwestern.edu with any questions
  */
 
 public class leontief
