@@ -1,4 +1,11 @@
- 
+ /*
+ @author deadfishh
+ *
+ * this does the lu factorization of a 3x3 matricie
+ * in short, it will rref it for you
+ * not too bad!!
+ * matlab does it better though
+ */
 
 public class lufactorization
 {
