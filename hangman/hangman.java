@@ -1,4 +1,11 @@
- 
+ /*
+ @ author deadfishh
+ *
+ * didn't know what a class was for this one either
+ * input a phrase in the private static String phrase
+ * the scanner will do the rest for you
+ */
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -10,7 +17,7 @@ public class hangman
     private static Scanner scanner = new Scanner(System.in);
     private static ArrayList<String> letters = new ArrayList<String>();
     private static boolean finished = false;
-    public static void main()
+    public static void main(String[] args)
     {
         System.out.println("new");
         makealphabet();
