@@ -1,4 +1,11 @@
- 
+/*
+* @author deadfishh
+*
+* i copied this from andy
+* i'm not sure why it's here it's not a game
+* but that's okay
+*/
+
 import java.util.*;
 public class Scramble
 {
