@@ -1,4 +1,13 @@
- 
+/*
+* @author deadfishh
+*
+* this is the compatability test we did in linear algebra
+* i just made an online version of it to make it easier
+* it does stuff with dot products and vectors
+* enjoy!
+*/
+
+
 import java.util.Scanner;
 
 public class compatability
