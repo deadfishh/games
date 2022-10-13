@@ -1,4 +1,15 @@
- 
+/*
+* @author deadfishh
+*
+* this is wordle
+* it's done in the scanner
+* it would probably be better with js
+* or at least joption pane maybe i'll do that
+* fuck around find out!
+* to set the phrase set String word to something
+*/
+
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
