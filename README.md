@@ -7,10 +7,11 @@ good morning!  if you are reading this then that means you are stalking my githu
 as of right now, october 12th, the year of our lord 2022 anno domini, i have four followers
 (in order if importance)
 
-1. sidharth jindol
-2. kenneth murray
-3. ryan eleveld
-4. andrew wehemyer
+1) sidharth jindol
+2) kenneth murray
+2.5) zeeshan razzaq (added  10/18/22)
+3) ryan eleveld
+4) andrew wehemyer
 
 here's a nice quote from catcher in the rye while your here.
 
