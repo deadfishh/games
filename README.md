@@ -9,7 +9,7 @@ as of right now, october 12th, the year of our lord 2022 anno domini, i have fou
 
 1) sidharth jindol
 2) kenneth murray
-2.5) zeeshan razzaq (added  10/18/22)
+2.5) zeeshan razzaq (added  10/18/22)\n
 3) ryan eleveld
 4) andrew wehemyer
 
